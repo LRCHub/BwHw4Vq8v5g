@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カンケイナイトファンキー  Covered by 【あらき×めいちゃん】",
+  "base_artist": "あらき",
+  "createdAt": "2026-03-27T18:08:01.193496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カンケイナイトファンキー",
+      "artist": "Nanahoshi Orchestra",
+      "has_synced": true,
+      "path": "select/01_カンケイナイトファンキー_Nanahoshi_Orchestra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カンケイナイトファンキー",
+      "artist": "あらき×めいちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_カンケイナイトファンキー_あらき×めいちゃん.txt"
+    }
+  ]
+}
